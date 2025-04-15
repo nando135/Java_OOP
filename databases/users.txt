@@ -1,0 +1,8 @@
+U001,John Doe,ADM,admin,JOHNISCOOL,johndoe@hotmail.com
+U002,Devara Alandra,ADM,devara,mayobenz,devaraandra@gmail.com
+U003,Gilang Uncu,FM,gilang,iheartjava,gilang123@hotmail.com
+U004,Kobalen Khaniska,IM,khns,encapsulation,khaniska@gmail.com
+U005,Christofer Rustandi,PM,chris,santasalim,chrus@gmail.com
+U006,Fernando Salim,SM,Fernando Salim,fortythree,nandi@gmail.com
+U007,Jane New User Doe,SM,janedoe,123,janedoeemail@gmail.com
+U008,Jane Invalid Doe,SM,janeinvaliddoe,PASSWORD,janedoe@gmail.com

@@ -1,0 +1,21 @@
+kanye,admin,Registered User,2024-12-15T00:57:48.451830300
+khns,admin,Edited User: email,2024-12-15T01:28:24.647279800
+asdsa,devara,Registered User,2024-12-15T01:28:43.651093900
+asdsa,devara,Deleted User,2024-12-15T01:28:49.568398900
+khns,admin,Edited User: name | email | password,2024-12-15T01:44:35.444927400
+gilang,admin,Edited User: name,2024-12-15T14:56:45.794921800
+chris,devara,Registered User,2024-12-18T18:46:51.841398700
+nandoggwp,admin,Registered User,2024-12-18T18:47:47.018587
+admin,devara,Edited User: password,2024-12-19T16:36:02.400593600
+Fernando Salim,admin,Edited User: username,2024-12-19T16:36:14.496085400
+Fernando Salim,admin,Edited User: name,2024-12-19T16:36:55.470617600
+devara,admin,Edited User: password,2024-12-19T16:37:06.981587300
+gilang,admin,Edited User: password,2024-12-19T16:37:17.363005800
+khns,admin,Edited User: password,2024-12-19T16:37:30.399664500
+chris,admin,Edited User: password,2024-12-19T16:37:44.052128
+Fernando Salim,admin,Edited User: password,2024-12-19T16:38:06.602225600
+janedoe,admin,Registered User,2024-12-19T16:50:56.129443800
+janeinvaliddoe,admin,Registered User,2024-12-19T16:54:46.222379
+janeinvaliddoe,admin,Edited User: email,2024-12-19T16:55:11.315294500
+JOHNHELLDIVER,admin,Registered User,2024-12-19T18:36:33.312011500
+JOHNHELLDIVER,admin,Deleted User,2024-12-19T18:36:42.209702
